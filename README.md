@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Youtube Education Section**
 
-- 👯 I’m looking to collaborate on **Building NFT's with proper market research**
+- 👯 I’m looking forward to collaborate on **Building NFT's with proper market research**
 
 - 💬 Ask me about **ReactJs, Express, Node, MongoDB, Mongoose**
 
