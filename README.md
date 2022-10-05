@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhupendra Singh</h1>
-<h3 align="center">Passionate to learn web development & solving real world problems.</h3>
+<h3 align="center">Passionate to learning development while solving real world problems.</h3>
 
 <p align="left"> <a href="https://twitter.com/iit_bhupendra" target="blank"><img src="https://img.shields.io/twitter/follow/iit_bhupendra?logo=twitter&style=for-the-badge" alt="iit_bhupendra" /></a> </p>
 
