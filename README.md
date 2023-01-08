@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/iit_bhupendra" target="blank"><img src="https://img.shields.io/twitter/follow/iit_bhupendra?logo=twitter&style=for-the-badge" alt="iit_bhupendra" /></a> </p>
 
-- 🔭 I’m currently working on **Youtube Education Section**
+- 🔭 I’m currently working on **improving my github, portfolio, and projects**
 
-- 👯 I’m looking forward to collaborate on **Building NFT's with proper market research**
+- 👯 I’m looking forward to join as full-time fullstack web developer in remote(work from home). 
 
-- 💬 Ask me about **ReactJs, Express, Node, MongoDB, Mongoose**
+- 👯 And also wants to collaborate on **learning about web3 and ecosystem**
+
+- 💬 Ask me about **ReactJs, NextJs, Express, Node, MongoDB, Mongoose, Tailwind, GraphQL**
 
 - 📫 How to reach me **iitbhu.bhupendra@gmail.com**
 
